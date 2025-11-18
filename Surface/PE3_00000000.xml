@@ -1,0 +1,3416 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20250702-20250801</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.235774651     </MEAN_OBS>
+ <STDV_OBS>   1.18584931     </STDV_OBS>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         710 </NUM>
+ <MEAN>  0.277144432     </MEAN>
+ <STDV>  -3.20298854E+09 </STDV>
+ <BIAS>   1.13523149     </BIAS>
+ <RMSE>  0.129860520     </RMSE>
+ <CORR>  -3.20223334E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         710 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.36959791     </BIAS>
+ <RMSE>  0.143353865     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.486111283     </MEAN_OBS>
+ <STDV_OBS>   1.81430745     </STDV_OBS>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.398465484     </MEAN>
+ <STDV>  -2.87026074E+09 </STDV>
+ <BIAS>   1.71902406     </BIAS>
+ <RMSE>  0.491880029     </RMSE>
+ <CORR>  -2.87031014E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.64990020     </BIAS>
+ <RMSE>  0.533033013     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.550638437     </MEAN_OBS>
+ <STDV_OBS>   3.24392462     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         705 </NUM>
+ <MEAN>  0.726115167     </MEAN>
+ <STDV>  -2.87030170E+09 </STDV>
+ <BIAS>   2.65326118     </BIAS>
+ <RMSE>  0.263602346     </RMSE>
+ <CORR>  -2.87031066E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         705 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.10421228     </BIAS>
+ <RMSE>  0.344333142     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.231388986     </MEAN_OBS>
+ <STDV_OBS>   1.70561528     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.377658516     </MEAN>
+ <STDV>  -3.20346240E+09 </STDV>
+ <BIAS>   1.76206863     </BIAS>
+ <RMSE>  0.540937603     </RMSE>
+ <CORR>  -2.87031014E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.43646932     </BIAS>
+ <RMSE>  0.540829003     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.268749923     </MEAN_OBS>
+ <STDV_OBS>   1.03626108     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         688 </NUM>
+ <MEAN>  0.257933378     </MEAN>
+ <STDV>  -2.87034010E+09 </STDV>
+ <BIAS>   1.74532199     </BIAS>
+ <RMSE>  0.171366394     </RMSE>
+ <CORR>  -3.20293376E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         688 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.22368574     </BIAS>
+ <RMSE>  0.365458101     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.141297892     </MEAN_OBS>
+ <STDV_OBS>   1.90531802     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         678 </NUM>
+ <MEAN>  0.182689235     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   1.52611315     </BIAS>
+ <RMSE>  0.126753435     </RMSE>
+ <CORR>  -3.20348339E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         678 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.02466249     </BIAS>
+ <RMSE>  0.111506470     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.163360864     </MEAN_OBS>
+ <STDV_OBS>  0.957786381     </STDV_OBS>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>  0.247955501     </MEAN>
+ <STDV>  -3.20348339E+09 </STDV>
+ <BIAS>  0.725790620     </BIAS>
+ <RMSE>  0.342698276     </RMSE>
+ <CORR>  -3.20231270E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         363 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>  0.865604222     </BIAS>
+ <RMSE>  0.427286685     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.335044056     </MEAN_OBS>
+ <STDV_OBS>   4.07355309     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         682 </NUM>
+ <MEAN>  0.830192029     </MEAN>
+ <STDV>  -3.20231270E+09 </STDV>
+ <BIAS>   2.29774117     </BIAS>
+ <RMSE>  0.429301500     </RMSE>
+ <CORR>  -3.20346240E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         682 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   4.01381826     </BIAS>
+ <RMSE>  0.232927740     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.351613194     </MEAN_OBS>
+ <STDV_OBS>   2.23343062     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         682 </NUM>
+ <MEAN>  0.436115652     </MEAN>
+ <STDV>  -3.20346240E+09 </STDV>
+ <BIAS>   2.06194639     </BIAS>
+ <RMSE>  0.393617392     </RMSE>
+ <CORR>  -2.87031014E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         682 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.23013234     </BIAS>
+ <RMSE>  0.313602895     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.422633111     </MEAN_OBS>
+ <STDV_OBS>   1.87898278     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         676 </NUM>
+ <MEAN>  0.492484093     </MEAN>
+ <STDV>  -2.87034010E+09 </STDV>
+ <BIAS>   2.90049171     </BIAS>
+ <RMSE>  0.280096292     </RMSE>
+ <CORR>  -3.20293376E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         676 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.89239907     </BIAS>
+ <RMSE>  0.386569053     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.291999996     </MEAN_OBS>
+ <STDV_OBS>   1.46758747     </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         675 </NUM>
+ <MEAN>  0.338488251     </MEAN>
+ <STDV>  -2.87031014E+09 </STDV>
+ <BIAS>   1.42303646     </BIAS>
+ <RMSE>  0.626363337     </RMSE>
+ <CORR>  -2.87021722E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         675 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.30731368     </BIAS>
+ <RMSE>  0.574330807     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.351527840     </MEAN_OBS>
+ <STDV_OBS>   1.71025395     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.364330977     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   1.54195631     </BIAS>
+ <RMSE>  0.619916558     </RMSE>
+ <CORR>  -3.20348339E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.71001244     </BIAS>
+ <RMSE>  0.469314426     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.283682078     </MEAN_OBS>
+ <STDV_OBS>   1.51096773     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.296023756     </MEAN>
+ <STDV>  -3.20275814E+09 </STDV>
+ <BIAS>   1.47832990     </BIAS>
+ <RMSE>  0.312762797     </RMSE>
+ <CORR>  -2.87016653E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.62004173     </BIAS>
+ <RMSE>  0.299168199     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.426539719     </MEAN_OBS>
+ <STDV_OBS>   3.79289460     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         682 </NUM>
+ <MEAN>  0.715489864     </MEAN>
+ <STDV>  -2.87016653E+09 </STDV>
+ <BIAS>   4.12972069     </BIAS>
+ <RMSE>  0.191551685     </RMSE>
+ <CORR>  -3.20126413E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         682 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.71603084     </BIAS>
+ <RMSE>  0.241261870     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.385800660     </MEAN_OBS>
+ <STDV_OBS>   1.30981004     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         662 </NUM>
+ <MEAN>  0.325813740     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   1.49228418     </BIAS>
+ <RMSE>  0.549125612     </RMSE>
+ <CORR>  -3.20350874E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         662 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.25221586     </BIAS>
+ <RMSE>  0.614971638     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.532936037     </MEAN_OBS>
+ <STDV_OBS>   3.67121315     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         671 </NUM>
+ <MEAN>  0.697583795     </MEAN>
+ <STDV>  -3.20283699E+09 </STDV>
+ <BIAS>   2.79234791     </BIAS>
+ <RMSE>  0.359538674     </RMSE>
+ <CORR>  -2.87026125E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         671 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.55128598     </BIAS>
+ <RMSE>  0.301400304     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.435593337     </MEAN_OBS>
+ <STDV_OBS>   2.96569228     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         708 </NUM>
+ <MEAN>  0.731986880     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   2.95895028     </BIAS>
+ <RMSE>  0.373991191     </RMSE>
+ <CORR>  -2.87030989E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         708 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.47703171     </BIAS>
+ <RMSE>  0.551018536     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.524071515     </MEAN_OBS>
+ <STDV_OBS>   2.28814769     </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         673 </NUM>
+ <MEAN>  0.504459918     </MEAN>
+ <STDV>  -2.87030989E+09 </STDV>
+ <BIAS>   2.27382541     </BIAS>
+ <RMSE>  0.505713761     </RMSE>
+ <CORR>  -3.20223411E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         673 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.09114051     </BIAS>
+ <RMSE>  0.537724078     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.608792961     </MEAN_OBS>
+ <STDV_OBS>   2.64509583     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         671 </NUM>
+ <MEAN>  0.630903959     </MEAN>
+ <STDV>  -2.87030170E+09 </STDV>
+ <BIAS>   2.45412207     </BIAS>
+ <RMSE>  0.490479946     </RMSE>
+ <CORR>  -3.20223334E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         671 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.61984563     </BIAS>
+ <RMSE>  0.438934296     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.810041904     </MEAN_OBS>
+ <STDV_OBS>   2.21327591     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.526179016     </MEAN>
+ <STDV>  -3.20293402E+09 </STDV>
+ <BIAS>   2.96939349     </BIAS>
+ <RMSE>  0.539297163     </RMSE>
+ <CORR>  -3.20340634E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.59984326     </BIAS>
+ <RMSE>  0.608291149     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.431137919     </MEAN_OBS>
+ <STDV_OBS>   2.40704322     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         668 </NUM>
+ <MEAN>  0.502103627     </MEAN>
+ <STDV>  -3.20223334E+09 </STDV>
+ <BIAS>   2.05061388     </BIAS>
+ <RMSE>  0.615611613     </RMSE>
+ <CORR>  -3.20283699E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         668 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.88606524     </BIAS>
+ <RMSE>  0.624362290     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.710694492     </MEAN_OBS>
+ <STDV_OBS>   3.70520616     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.784456074     </MEAN>
+ <STDV>  -2.87026074E+09 </STDV>
+ <BIAS>   2.62529731     </BIAS>
+ <RMSE>  0.404645056     </RMSE>
+ <CORR>  -3.20350874E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.22165036     </BIAS>
+ <RMSE>  0.508055568     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.792200327     </MEAN_OBS>
+ <STDV_OBS>   3.45162487     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>  0.800922632     </MEAN>
+ <STDV>  -3.20283699E+09 </STDV>
+ <BIAS>   2.71824765     </BIAS>
+ <RMSE>  0.508247793     </RMSE>
+ <CORR>  -3.20348339E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.16126943     </BIAS>
+ <RMSE>  0.500758886     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.564106524     </MEAN_OBS>
+ <STDV_OBS>   2.30167198     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         677 </NUM>
+ <MEAN>  0.549878180     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   2.26814032     </BIAS>
+ <RMSE>  0.558210433     </RMSE>
+ <CORR>  -2.87022541E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         677 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.04282236     </BIAS>
+ <RMSE>  0.580893874     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.361185223     </MEAN_OBS>
+ <STDV_OBS>   2.97379208     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         675 </NUM>
+ <MEAN>  0.646651089     </MEAN>
+ <STDV>  -3.20118477E+09 </STDV>
+ <BIAS>   1.96637070     </BIAS>
+ <RMSE>  0.730340600     </RMSE>
+ <CORR>  -2.87016678E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         675 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.15306354     </BIAS>
+ <RMSE>  0.721538484     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.395441413     </MEAN_OBS>
+ <STDV_OBS>   2.10432196     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         680 </NUM>
+ <MEAN>  0.437397420     </MEAN>
+ <STDV>  -2.87016678E+09 </STDV>
+ <BIAS>   1.87188292     </BIAS>
+ <RMSE>  0.610091865     </RMSE>
+ <CORR>  -2.87021722E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         680 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.72748935     </BIAS>
+ <RMSE>  0.595180929     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.356796324     </MEAN_OBS>
+ <STDV_OBS>   1.54366207     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         618 </NUM>
+ <MEAN>  0.393756539     </MEAN>
+ <STDV>  -3.20348314E+09 </STDV>
+ <BIAS>   1.26170003     </BIAS>
+ <RMSE>  0.730257332     </RMSE>
+ <CORR>  -3.20293402E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         618 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.27286077     </BIAS>
+ <RMSE>  0.651746929     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.259023666     </MEAN_OBS>
+ <STDV_OBS>   2.36141706     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         676 </NUM>
+ <MEAN>  0.454841316     </MEAN>
+ <STDV>  -3.20293402E+09 </STDV>
+ <BIAS>   1.83170211     </BIAS>
+ <RMSE>  0.259013116     </RMSE>
+ <CORR>  -2.87030246E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         676 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.45598483     </BIAS>
+ <RMSE>  0.168600395     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.213146880     </MEAN_OBS>
+ <STDV_OBS>   2.10514522     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         715 </NUM>
+ <MEAN>  0.401927263     </MEAN>
+ <STDV>  -3.20223334E+09 </STDV>
+ <BIAS>   1.60147119     </BIAS>
+ <RMSE>  0.308691084     </RMSE>
+ <CORR>  -3.20283699E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         715 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.04574442     </BIAS>
+ <RMSE>  0.293102652     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.358504266     </MEAN_OBS>
+ <STDV_OBS>   1.84809017     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         682 </NUM>
+ <MEAN>  0.386007011     </MEAN>
+ <STDV>  -2.87030246E+09 </STDV>
+ <BIAS>   1.81784809     </BIAS>
+ <RMSE>  0.239247620     </RMSE>
+ <CORR>  -3.20350874E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         682 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.21323514     </BIAS>
+ <RMSE>  0.122025050     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.332777947     </MEAN_OBS>
+ <STDV_OBS>   1.13240623     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.242654443     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   1.64454651     </BIAS>
+ <RMSE>  0.193421543     </RMSE>
+ <CORR>  -3.20283699E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.51244807     </BIAS>
+ <RMSE>  0.203754246     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.227786347     </MEAN_OBS>
+ <STDV_OBS>  0.859530747     </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         655 </NUM>
+ <MEAN>  0.167764544     </MEAN>
+ <STDV>  -3.20118477E+09 </STDV>
+ <BIAS>   1.08807826     </BIAS>
+ <RMSE>  0.429560512     </RMSE>
+ <CORR>  -2.87016678E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         655 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.06403124     </BIAS>
+ <RMSE>  0.396217197     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.389487207     </MEAN_OBS>
+ <STDV_OBS>   2.13954806     </STDV_OBS>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.507718205     </MEAN>
+ <STDV>  -3.20231270E+09 </STDV>
+ <BIAS>   2.66007614     </BIAS>
+ <RMSE>  0.172322035     </RMSE>
+ <CORR>  -2.87021722E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.62687063     </BIAS>
+ <RMSE>  0.108315460     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.311666787     </MEAN_OBS>
+ <STDV_OBS>   1.81974697     </STDV_OBS>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.458781302     </MEAN>
+ <STDV>  -3.20275840E+09 </STDV>
+ <BIAS>   3.01232529     </BIAS>
+ <RMSE>  0.136723444     </RMSE>
+ <CORR>  -2.87026099E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.88854945     </BIAS>
+ <RMSE>  0.289769650     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.514999807     </MEAN_OBS>
+ <STDV_OBS>   2.87129784     </STDV_OBS>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.586228251     </MEAN>
+ <STDV>  -2.87022541E+09 </STDV>
+ <BIAS>   2.83423686     </BIAS>
+ <RMSE>  0.473002613     </RMSE>
+ <CORR>  -3.20118477E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.53584957     </BIAS>
+ <RMSE>  0.524411380     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.327884763     </MEAN_OBS>
+ <STDV_OBS>   1.77700484     </STDV_OBS>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.510223448     </MEAN>
+ <STDV>  -3.20298854E+09 </STDV>
+ <BIAS>   2.37381625     </BIAS>
+ <RMSE>  0.325538725     </RMSE>
+ <CORR>  -2.87021722E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.85835457     </BIAS>
+ <RMSE>  0.266153276     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.790114760     </MEAN_OBS>
+ <STDV_OBS>   2.41102290     </STDV_OBS>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1558 </NUM>
+ <MEAN>  0.699869394     </MEAN>
+ <STDV>  -3.20118477E+09 </STDV>
+ <BIAS>   3.68316031     </BIAS>
+ <RMSE>  0.247585192     </RMSE>
+ <CORR>  -2.87026074E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1558 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.06891060     </BIAS>
+ <RMSE>  0.311414808     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.572371721     </MEAN_OBS>
+ <STDV_OBS>   2.69216061     </STDV_OBS>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.641047418     </MEAN>
+ <STDV>  -2.87009024E+09 </STDV>
+ <BIAS>   2.99929452     </BIAS>
+ <RMSE>  0.217209816     </RMSE>
+ <CORR>  -3.20348314E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.10912943     </BIAS>
+ <RMSE>  0.268684536     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.574598253     </MEAN_OBS>
+ <STDV_OBS>   2.70832229     </STDV_OBS>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1555 </NUM>
+ <MEAN>  0.572426796     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   2.29949331     </BIAS>
+ <RMSE>  0.336601347     </RMSE>
+ <CORR>  -2.87030195E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1555 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.88501263     </BIAS>
+ <RMSE>  0.299776345     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.377564341     </MEAN_OBS>
+ <STDV_OBS>   2.52175450     </STDV_OBS>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.587188840     </MEAN>
+ <STDV>  -3.20348314E+09 </STDV>
+ <BIAS>   2.55084777     </BIAS>
+ <RMSE>  0.194117516     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.75277114     </BIAS>
+ <RMSE>  0.186188221     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.272884905     </MEAN_OBS>
+ <STDV_OBS>   2.17944574     </STDV_OBS>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.480387390     </MEAN>
+ <STDV>  -2.87030195E+09 </STDV>
+ <BIAS>   1.74583685     </BIAS>
+ <RMSE>  0.362461388     </RMSE>
+ <CORR>  -3.20223360E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.21141338     </BIAS>
+ <RMSE>  0.245945543     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.465063721     </MEAN_OBS>
+ <STDV_OBS>   1.71669471     </STDV_OBS>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.362973005     </MEAN>
+ <STDV>  -2.87022541E+09 </STDV>
+ <BIAS>   2.40767050     </BIAS>
+ <RMSE>  0.206802711     </RMSE>
+ <CORR>  -3.20275840E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.61105752     </BIAS>
+ <RMSE>  0.184053957     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.348461688     </MEAN_OBS>
+ <STDV_OBS>   2.31280422     </STDV_OBS>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.497549117     </MEAN>
+ <STDV>  -3.20293427E+09 </STDV>
+ <BIAS>   2.52431035     </BIAS>
+ <RMSE>  0.266125053     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.37485433     </BIAS>
+ <RMSE>  0.249316886     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.349487126     </MEAN_OBS>
+ <STDV_OBS>   1.65781510     </STDV_OBS>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.402235627     </MEAN>
+ <STDV>  -3.20275840E+09 </STDV>
+ <BIAS>   2.34146118     </BIAS>
+ <RMSE>  0.234527111     </RMSE>
+ <CORR>  -3.20223334E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.19932532     </BIAS>
+ <RMSE>  0.213315457     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.447716475     </MEAN_OBS>
+ <STDV_OBS>   1.54706490     </STDV_OBS>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1555 </NUM>
+ <MEAN>  0.404184908     </MEAN>
+ <STDV>  -2.87034010E+09 </STDV>
+ <BIAS>   2.31365633     </BIAS>
+ <RMSE>  0.275764823     </RMSE>
+ <CORR>  -3.20118477E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1555 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.81114733     </BIAS>
+ <RMSE>  0.349088401     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.524487376     </MEAN_OBS>
+ <STDV_OBS>   1.99512422     </STDV_OBS>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.500062168     </MEAN>
+ <STDV>  -3.20223334E+09 </STDV>
+ <BIAS>   3.39322400     </BIAS>
+ <RMSE>  0.274657220     </RMSE>
+ <CORR>  -2.87009024E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.67678237     </BIAS>
+ <RMSE>  0.283243746     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.350801826     </MEAN_OBS>
+ <STDV_OBS>   2.40280867     </STDV_OBS>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1559 </NUM>
+ <MEAN>  0.442409694     </MEAN>
+ <STDV>  -3.20348339E+09 </STDV>
+ <BIAS>   2.74818277     </BIAS>
+ <RMSE>  0.340840876     </RMSE>
+ <CORR>  -3.20350874E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1559 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.35818028     </BIAS>
+ <RMSE>  0.392105728     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.557051361     </MEAN_OBS>
+ <STDV_OBS>   2.12900281     </STDV_OBS>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.537044644     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   2.56484246     </BIAS>
+ <RMSE>  0.354296684     </RMSE>
+ <CORR>  -3.20118502E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.48072314     </BIAS>
+ <RMSE>  0.363012463     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.516602457     </MEAN_OBS>
+ <STDV_OBS>   3.37017083     </STDV_OBS>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.626024008     </MEAN>
+ <STDV>  -2.87030989E+09 </STDV>
+ <BIAS>   2.77135134     </BIAS>
+ <RMSE>  0.105192274     </RMSE>
+ <CORR>  -2.87016678E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.56690979     </BIAS>
+ <RMSE>  0.246336877     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.564184606     </MEAN_OBS>
+ <STDV_OBS>   2.63365555     </STDV_OBS>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1558 </NUM>
+ <MEAN>  0.659383893     </MEAN>
+ <STDV>  -3.20118502E+09 </STDV>
+ <BIAS>   3.21096539     </BIAS>
+ <RMSE>  0.232259408     </RMSE>
+ <CORR>  -3.20350874E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1558 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.08547807     </BIAS>
+ <RMSE>  0.121031322     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.582884848     </MEAN_OBS>
+ <STDV_OBS>   2.02932239     </STDV_OBS>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.482069582     </MEAN>
+ <STDV>  -3.20283699E+09 </STDV>
+ <BIAS>   2.54831934     </BIAS>
+ <RMSE>  0.421189785     </RMSE>
+ <CORR>  -3.20293427E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.11566782     </BIAS>
+ <RMSE>  0.562893510     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.246153817     </MEAN_OBS>
+ <STDV_OBS>   2.24325752     </STDV_OBS>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.476690382     </MEAN>
+ <STDV>  -2.87026074E+09 </STDV>
+ <BIAS>   1.50855505     </BIAS>
+ <RMSE>  0.522574663     </RMSE>
+ <CORR>  -2.87016653E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.11650586     </BIAS>
+ <RMSE>  0.357089311     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.587692142     </MEAN_OBS>
+ <STDV_OBS>   2.22319412     </STDV_OBS>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.529541194     </MEAN>
+ <STDV>  -3.20223360E+09 </STDV>
+ <BIAS>   2.89839077     </BIAS>
+ <RMSE>   7.11595491E-02 </RMSE>
+ <CORR>  -3.20350874E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.82379985     </BIAS>
+ <RMSE>  0.129535377     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.283151329     </MEAN_OBS>
+ <STDV_OBS>   1.78775895     </STDV_OBS>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1555 </NUM>
+ <MEAN>  0.441906929     </MEAN>
+ <STDV>  -3.20340634E+09 </STDV>
+ <BIAS>   2.52070713     </BIAS>
+ <RMSE>   3.75014096E-02 </RMSE>
+ <CORR>  -3.20298854E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1555 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.18625689     </BIAS>
+ <RMSE>   4.41007726E-02 </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.328617245     </MEAN_OBS>
+ <STDV_OBS>   2.39974809     </STDV_OBS>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1555 </NUM>
+ <MEAN>  0.443611652     </MEAN>
+ <STDV>  -2.87030170E+09 </STDV>
+ <BIAS>   2.28026652     </BIAS>
+ <RMSE>  0.271772236     </RMSE>
+ <CORR>  -2.87016730E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1555 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.50317216     </BIAS>
+ <RMSE>  0.218758494     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.538203955     </MEAN_OBS>
+ <STDV_OBS>   1.45947158     </STDV_OBS>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.354949802     </MEAN>
+ <STDV>  -3.20298854E+09 </STDV>
+ <BIAS>   2.73533058     </BIAS>
+ <RMSE>  0.153793022     </RMSE>
+ <CORR>  -3.20346240E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.23218560     </BIAS>
+ <RMSE>  0.240607172     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.159186468     </MEAN_OBS>
+ <STDV_OBS>   1.06109333     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         713 </NUM>
+ <MEAN>  0.245451823     </MEAN>
+ <STDV>  -3.20118528E+09 </STDV>
+ <BIAS>   1.14163542     </BIAS>
+ <RMSE>  0.327279866     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         713 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.14838076     </BIAS>
+ <RMSE>  0.395372570     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.338749945     </MEAN_OBS>
+ <STDV_OBS>   1.61317050     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.431555003     </MEAN>
+ <STDV>  -3.20348288E+09 </STDV>
+ <BIAS>   2.58619761     </BIAS>
+ <RMSE>  0.132760778     </RMSE>
+ <CORR>  -3.20231270E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.86617649     </BIAS>
+ <RMSE>  0.331099063     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.335371196     </MEAN_OBS>
+ <STDV_OBS>   1.34495759     </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         687 </NUM>
+ <MEAN>  0.338337511     </MEAN>
+ <STDV>  -2.87034010E+09 </STDV>
+ <BIAS>   1.65340734     </BIAS>
+ <RMSE>  0.385121197     </RMSE>
+ <CORR>  -3.20283699E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         687 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.45485806     </BIAS>
+ <RMSE>  0.414142251     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.79562092     </STDV_OBS>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.826951206     </MEAN>
+ <STDV>  -3.20231270E+09 </STDV>
+ <BIAS>   3.22698569     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.87030170E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.79297304     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.240306884     </MEAN_OBS>
+ <STDV_OBS>   1.29424489     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.281431228     </MEAN>
+ <STDV>  -2.87031014E+09 </STDV>
+ <BIAS>   1.16574073     </BIAS>
+ <RMSE>  0.345086694     </RMSE>
+ <CORR>  -3.20346214E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.42445445     </BIAS>
+ <RMSE>  0.207242191     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.84722343E-02 </MEAN_OBS>
+ <STDV_OBS>  0.398100853     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         576 </NUM>
+ <MEAN>   6.47663400E-02 </MEAN>
+ <STDV>  -3.20346214E+09 </STDV>
+ <BIAS>  0.752459049     </BIAS>
+ <RMSE>  0.193631157     </RMSE>
+ <CORR>  -3.20118528E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         576 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>  0.572684884     </BIAS>
+ <RMSE>  0.207180142     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.243611082     </MEAN_OBS>
+ <STDV_OBS>   1.55494213     </STDV_OBS>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.316527069     </MEAN>
+ <STDV>  -3.20283699E+09 </STDV>
+ <BIAS>   1.98882794     </BIAS>
+ <RMSE>  0.255079687     </RMSE>
+ <CORR>  -3.20340634E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.61145210     </BIAS>
+ <RMSE>  0.336873651     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.443055689     </MEAN_OBS>
+ <STDV_OBS>   2.26555538     </STDV_OBS>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.461060971     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   2.57101417     </BIAS>
+ <RMSE>  0.328413039     </RMSE>
+ <CORR>  -2.87026150E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.46502566     </BIAS>
+ <RMSE>  0.400302827     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.733194232     </MEAN_OBS>
+ <STDV_OBS>   1.88918424     </STDV_OBS>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.430075169     </MEAN>
+ <STDV>  -2.87030989E+09 </STDV>
+ <BIAS>   2.37761045     </BIAS>
+ <RMSE>  0.599035859     </RMSE>
+ <CORR>  -2.87016678E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.24604964     </BIAS>
+ <RMSE>  0.567241549     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.541805863     </MEAN_OBS>
+ <STDV_OBS>   2.18027306     </STDV_OBS>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.528494000     </MEAN>
+ <STDV>  -3.20126413E+09 </STDV>
+ <BIAS>   2.22960520     </BIAS>
+ <RMSE>  0.370759845     </RMSE>
+ <CORR>  -3.20348314E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.24898219     </BIAS>
+ <RMSE>  0.370377630     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.620416880     </MEAN_OBS>
+ <STDV_OBS>   2.10274124     </STDV_OBS>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.542530477     </MEAN>
+ <STDV>  -3.20298854E+09 </STDV>
+ <BIAS>   2.38108921     </BIAS>
+ <RMSE>  0.321503341     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.46825886     </BIAS>
+ <RMSE>  0.343806386     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.501805663     </MEAN_OBS>
+ <STDV_OBS>   1.28208292     </STDV_OBS>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.316631615     </MEAN>
+ <STDV>  -3.20223334E+09 </STDV>
+ <BIAS>   1.78877068     </BIAS>
+ <RMSE>  0.390641928     </RMSE>
+ <CORR>  -2.87016678E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.83157218     </BIAS>
+ <RMSE>  0.364085406     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.629861057     </MEAN_OBS>
+ <STDV_OBS>   1.00138819     </STDV_OBS>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.215521589     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   1.88526523     </BIAS>
+ <RMSE>  0.419258237     </RMSE>
+ <CORR>  -3.20348262E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.87330222     </BIAS>
+ <RMSE>  0.422499478     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.382222414     </MEAN_OBS>
+ <STDV_OBS>   1.69289839     </STDV_OBS>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.340157658     </MEAN>
+ <STDV>  -3.20283699E+09 </STDV>
+ <BIAS>   1.66942680     </BIAS>
+ <RMSE>  0.377274483     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.81977785     </BIAS>
+ <RMSE>  0.335698187     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.640277863     </MEAN_OBS>
+ <STDV_OBS>   2.39980245     </STDV_OBS>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.586087406     </MEAN>
+ <STDV>  -3.20348262E+09 </STDV>
+ <BIAS>   2.11835337     </BIAS>
+ <RMSE>  0.531565845     </RMSE>
+ <CORR>  -2.87016730E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.09640479     </BIAS>
+ <RMSE>  0.567330301     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.407361269     </MEAN_OBS>
+ <STDV_OBS>   1.40037608     </STDV_OBS>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.268977523     </MEAN>
+ <STDV>  -2.87022541E+09 </STDV>
+ <BIAS>   1.67221785     </BIAS>
+ <RMSE>  0.172611445     </RMSE>
+ <CORR>  -3.20346240E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.83180308     </BIAS>
+ <RMSE>  0.188058972     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.246666729     </MEAN_OBS>
+ <STDV_OBS>   1.05262077     </STDV_OBS>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.240736231     </MEAN>
+ <STDV>  -3.20126413E+09 </STDV>
+ <BIAS>   1.14028728     </BIAS>
+ <RMSE>  0.344925493     </RMSE>
+ <CORR>  -2.87026125E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.19149971     </BIAS>
+ <RMSE>  0.321222782     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.648194909     </MEAN_OBS>
+ <STDV_OBS>   1.71628106     </STDV_OBS>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.345761299     </MEAN>
+ <STDV>  -3.20293376E+09 </STDV>
+ <BIAS>   2.23011756     </BIAS>
+ <RMSE>  0.345922917     </RMSE>
+ <CORR>  -2.87009024E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.18693376     </BIAS>
+ <RMSE>  0.336751342     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.338055640     </MEAN_OBS>
+ <STDV_OBS>  0.810684264     </STDV_OBS>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.167723209     </MEAN>
+ <STDV>  -3.20231270E+09 </STDV>
+ <BIAS>   1.74038327     </BIAS>
+ <RMSE>  -7.02615269E-03 </RMSE>
+ <CORR>  -3.20346240E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.72142816     </BIAS>
+ <RMSE>   2.43688934E-02 </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.687916815     </MEAN_OBS>
+ <STDV_OBS>   1.97269416     </STDV_OBS>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.428290188     </MEAN>
+ <STDV>  -3.20346240E+09 </STDV>
+ <BIAS>   2.38401222     </BIAS>
+ <RMSE>  0.524879277     </RMSE>
+ <CORR>  -2.87009024E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.23860478     </BIAS>
+ <RMSE>  0.605037987     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.279861182     </MEAN_OBS>
+ <STDV_OBS>   1.69281650     </STDV_OBS>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.249586552     </MEAN>
+ <STDV>  -3.20340634E+09 </STDV>
+ <BIAS>   2.10241818     </BIAS>
+ <RMSE>  0.233337909     </RMSE>
+ <CORR>  -3.20275840E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.96104157     </BIAS>
+ <RMSE>  0.353042394     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.225662440     </MEAN_OBS>
+ <STDV_OBS>   2.20159817     </STDV_OBS>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.374777734     </MEAN>
+ <STDV>  -2.87022541E+09 </STDV>
+ <BIAS>   1.22433102     </BIAS>
+ <RMSE>  0.403664321     </RMSE>
+ <CORR>  -2.87026099E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.11155510     </BIAS>
+ <RMSE>  0.322223157     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.443194598     </MEAN_OBS>
+ <STDV_OBS>   1.58967721     </STDV_OBS>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.457278877     </MEAN>
+ <STDV>  -3.20118502E+09 </STDV>
+ <BIAS>   1.62544262     </BIAS>
+ <RMSE>  0.449775934     </RMSE>
+ <CORR>  -2.87016704E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.79180241     </BIAS>
+ <RMSE>  0.372594088     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.511694252     </MEAN_OBS>
+ <STDV_OBS>   2.65316248     </STDV_OBS>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         667 </NUM>
+ <MEAN>  0.529370070     </MEAN>
+ <STDV>  -3.20298854E+09 </STDV>
+ <BIAS>   1.94143641     </BIAS>
+ <RMSE>  0.678016722     </RMSE>
+ <CORR>  -3.20283699E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         667 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.98448825     </BIAS>
+ <RMSE>  0.663160622     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.340277821     </MEAN_OBS>
+ <STDV_OBS>  0.802180409     </STDV_OBS>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.228343815     </MEAN>
+ <STDV>  -3.20231270E+09 </STDV>
+ <BIAS>   1.60274327     </BIAS>
+ <RMSE>  0.123406984     </RMSE>
+ <CORR>  -2.87026074E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.62463951     </BIAS>
+ <RMSE>  0.135282874     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.465690583     </MEAN_OBS>
+ <STDV_OBS>   1.43586731     </STDV_OBS>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.386975020     </MEAN>
+ <STDV>  -2.87030195E+09 </STDV>
+ <BIAS>   1.82847786     </BIAS>
+ <RMSE>  0.427630991     </RMSE>
+ <CORR>  -2.87016653E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.67218482     </BIAS>
+ <RMSE>  0.549033225     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.543235838     </MEAN_OBS>
+ <STDV_OBS>   2.70708418     </STDV_OBS>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.545585454     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   1.62544072     </BIAS>
+ <RMSE>  0.794190168     </RMSE>
+ <CORR>  -3.20283699E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.70109439     </BIAS>
+ <RMSE>  0.782199264     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.646944523     </MEAN_OBS>
+ <STDV_OBS>   2.03934383     </STDV_OBS>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.428042948     </MEAN>
+ <STDV>  -3.20340634E+09 </STDV>
+ <BIAS>   2.03253007     </BIAS>
+ <RMSE>  0.735968053     </RMSE>
+ <CORR>  -2.87026150E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.10010982     </BIAS>
+ <RMSE>  0.712582469     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.327916801     </MEAN_OBS>
+ <STDV_OBS>  0.894350111     </STDV_OBS>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.236737400     </MEAN>
+ <STDV>  -2.87031014E+09 </STDV>
+ <BIAS>   1.40801132     </BIAS>
+ <RMSE>  0.241998896     </RMSE>
+ <CORR>  -2.87016678E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.44518113     </BIAS>
+ <RMSE>  0.211221814     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.506111681     </MEAN_OBS>
+ <STDV_OBS>   1.80628836     </STDV_OBS>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.429598331     </MEAN>
+ <STDV>  -3.20126413E+09 </STDV>
+ <BIAS>   2.10060549     </BIAS>
+ <RMSE>  0.348284394     </RMSE>
+ <CORR>  -3.20275814E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.01399136     </BIAS>
+ <RMSE>  0.332948983     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.535983324     </MEAN_OBS>
+ <STDV_OBS>   1.71914983     </STDV_OBS>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.423903346     </MEAN>
+ <STDV>  -3.20298854E+09 </STDV>
+ <BIAS>   1.61049592     </BIAS>
+ <RMSE>  0.550029576     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.55834067     </BIAS>
+ <RMSE>  0.556210339     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.333472341     </MEAN_OBS>
+ <STDV_OBS>  0.946640968     </STDV_OBS>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.198066145     </MEAN>
+ <STDV>  -3.20223360E+09 </STDV>
+ <BIAS>   1.77657139     </BIAS>
+ <RMSE>   4.95649204E-02 </RMSE>
+ <CORR>  -2.87016653E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.79137158     </BIAS>
+ <RMSE>   4.82870899E-02 </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.331250191     </MEAN_OBS>
+ <STDV_OBS>  0.985417902     </STDV_OBS>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.283638388     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   1.49547565     </BIAS>
+ <RMSE>  0.271669447     </RMSE>
+ <CORR>  -3.20275763E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.42509496     </BIAS>
+ <RMSE>  0.180514023     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.773221612     </MEAN_OBS>
+ <STDV_OBS>   1.59294748     </STDV_OBS>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.481940925     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   1.83432746     </BIAS>
+ <RMSE>  0.311202407     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.01912379     </BIAS>
+ <RMSE>  0.296496183     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.445188344     </MEAN_OBS>
+ <STDV_OBS>   1.12121212     </STDV_OBS>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.270301908     </MEAN>
+ <STDV>  -3.20275763E+09 </STDV>
+ <BIAS>   1.47296369     </BIAS>
+ <RMSE>  0.426056236     </RMSE>
+ <CORR>  -2.87016730E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.55132473     </BIAS>
+ <RMSE>  0.348264575     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.528333485     </MEAN_OBS>
+ <STDV_OBS>   2.12840843     </STDV_OBS>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.511461258     </MEAN>
+ <STDV>  -2.87022541E+09 </STDV>
+ <BIAS>   2.41558433     </BIAS>
+ <RMSE>  0.444989592     </RMSE>
+ <CORR>  -3.20348288E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.46636128     </BIAS>
+ <RMSE>  0.390594810     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.276527762     </MEAN_OBS>
+ <STDV_OBS>   1.58989847     </STDV_OBS>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.341459423     </MEAN>
+ <STDV>  -3.20126413E+09 </STDV>
+ <BIAS>   2.18544245     </BIAS>
+ <RMSE>  0.448284239     </RMSE>
+ <CORR>  -2.87026125E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.37572503     </BIAS>
+ <RMSE>  0.516010940     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.675139844     </MEAN_OBS>
+ <STDV_OBS>   2.19107699     </STDV_OBS>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>  0.416407228     </MEAN>
+ <STDV>  -3.20293376E+09 </STDV>
+ <BIAS>   2.47455406     </BIAS>
+ <RMSE>  0.546799779     </RMSE>
+ <CORR>  -2.87009024E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.51249194     </BIAS>
+ <RMSE>  0.541099548     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.489166707     </MEAN_OBS>
+ <STDV_OBS>   1.11927903     </STDV_OBS>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.231215209     </MEAN>
+ <STDV>  -3.20231270E+09 </STDV>
+ <BIAS>   1.57795656     </BIAS>
+ <RMSE>  0.564837575     </RMSE>
+ <CORR>  -3.20348262E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.50044715     </BIAS>
+ <RMSE>  0.618218303     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.321111172     </MEAN_OBS>
+ <STDV_OBS>   1.04926634     </STDV_OBS>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.214419305     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   1.35119164     </BIAS>
+ <RMSE>  0.476348430     </RMSE>
+ <CORR>  -2.87026099E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.31830788     </BIAS>
+ <RMSE>  0.533655226     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.581944644     </MEAN_OBS>
+ <STDV_OBS>   1.03312409     </STDV_OBS>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.316083372     </MEAN>
+ <STDV>  -3.20346214E+09 </STDV>
+ <BIAS>   1.71868360     </BIAS>
+ <RMSE>  0.394458950     </RMSE>
+ <CORR>  -2.87009024E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.65402830     </BIAS>
+ <RMSE>  0.442322820     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.441944301     </MEAN_OBS>
+ <STDV_OBS>   1.60904264     </STDV_OBS>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.425879121     </MEAN>
+ <STDV>  -3.20283699E+09 </STDV>
+ <BIAS>   1.65073800     </BIAS>
+ <RMSE>  0.601589918     </RMSE>
+ <CORR>  -3.20348339E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.45672679     </BIAS>
+ <RMSE>  0.581675231     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.406546026     </MEAN_OBS>
+ <STDV_OBS>   1.33797193     </STDV_OBS>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>  0.396556914     </MEAN>
+ <STDV>  -2.87022541E+09 </STDV>
+ <BIAS>   1.33482873     </BIAS>
+ <RMSE>  0.428026766     </RMSE>
+ <CORR>  -2.87026099E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         718 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.54537261     </BIAS>
+ <RMSE>  0.348341942     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.751805246     </MEAN_OBS>
+ <STDV_OBS>   2.22991681     </STDV_OBS>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.456656665     </MEAN>
+ <STDV>  -3.20118477E+09 </STDV>
+ <BIAS>   2.16650772     </BIAS>
+ <RMSE>  0.541599095     </RMSE>
+ <CORR>  -2.87016704E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.21847796     </BIAS>
+ <RMSE>  0.556420386     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.710694373     </MEAN_OBS>
+ <STDV_OBS>   1.88438213     </STDV_OBS>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.523047924     </MEAN>
+ <STDV>  -3.20298854E+09 </STDV>
+ <BIAS>   2.27095199     </BIAS>
+ <RMSE>  0.400423974     </RMSE>
+ <CORR>  -3.20340634E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.09465718     </BIAS>
+ <RMSE>  0.480548114     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.601527691     </MEAN_OBS>
+ <STDV_OBS>   2.26384354     </STDV_OBS>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.482759416     </MEAN>
+ <STDV>  -3.20231270E+09 </STDV>
+ <BIAS>   1.77390695     </BIAS>
+ <RMSE>  0.531340122     </RMSE>
+ <CORR>  -2.87026074E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.16956401     </BIAS>
+ <RMSE>  0.499922216     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.335416794     </MEAN_OBS>
+ <STDV_OBS>   1.48148346     </STDV_OBS>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.382423192     </MEAN>
+ <STDV>  -2.87030170E+09 </STDV>
+ <BIAS>   1.75949156     </BIAS>
+ <RMSE>  0.298624516     </RMSE>
+ <CORR>  -2.87016678E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.31807101     </BIAS>
+ <RMSE>  0.514716327     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.386527926     </MEAN_OBS>
+ <STDV_OBS>   1.39031267     </STDV_OBS>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.373447180     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   1.44462049     </BIAS>
+ <RMSE>  0.406880438     </RMSE>
+ <CORR>  -3.20340634E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.59890032     </BIAS>
+ <RMSE>  0.323274016     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.371491313     </MEAN_OBS>
+ <STDV_OBS>   1.51555252     </STDV_OBS>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         684 </NUM>
+ <MEAN>  0.372150034     </MEAN>
+ <STDV>  -3.20283699E+09 </STDV>
+ <BIAS>   1.63969231     </BIAS>
+ <RMSE>  0.247603163     </RMSE>
+ <CORR>  -2.87026150E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         684 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.68012369     </BIAS>
+ <RMSE>  0.254508972     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.383124113     </MEAN_OBS>
+ <STDV_OBS>   1.62953222     </STDV_OBS>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.386249334     </MEAN>
+ <STDV>  -2.87030989E+09 </STDV>
+ <BIAS>   1.34967184     </BIAS>
+ <RMSE>  0.574205875     </RMSE>
+ <CORR>  -2.87016678E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.34558618     </BIAS>
+ <RMSE>  0.610424340     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.516875684     </MEAN_OBS>
+ <STDV_OBS>   1.36314845     </STDV_OBS>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.304796517     </MEAN>
+ <STDV>  -3.20126413E+09 </STDV>
+ <BIAS>   2.05446124     </BIAS>
+ <RMSE>  0.415641278     </RMSE>
+ <CORR>  -3.20348314E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.78098273     </BIAS>
+ <RMSE>  0.467156351     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.612916827     </MEAN_OBS>
+ <STDV_OBS>  0.992494643     </STDV_OBS>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.231066138     </MEAN>
+ <STDV>  -3.20298854E+09 </STDV>
+ <BIAS>   1.80421734     </BIAS>
+ <RMSE>  0.391899347     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.69357431     </BIAS>
+ <RMSE>  0.452670693     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.511111259     </MEAN_OBS>
+ <STDV_OBS>   1.03510928     </STDV_OBS>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.257820666     </MEAN>
+ <STDV>  -3.20223334E+09 </STDV>
+ <BIAS>   1.78786695     </BIAS>
+ <RMSE>  0.468588233     </RMSE>
+ <CORR>  -2.87016653E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.83257973     </BIAS>
+ <RMSE>  0.408694983     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.304492742     </MEAN_OBS>
+ <STDV_OBS>  0.972484171     </STDV_OBS>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         690 </NUM>
+ <MEAN>  0.277327448     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   1.39788926     </BIAS>
+ <RMSE>  0.265756786     </RMSE>
+ <CORR>  -3.20348288E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         690 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.12276340     </BIAS>
+ <RMSE>  0.416233033     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.459915638     </MEAN_OBS>
+ <STDV_OBS>   1.34437823     </STDV_OBS>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         711 </NUM>
+ <MEAN>  0.370023996     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   1.56820703     </BIAS>
+ <RMSE>  0.366451383     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         711 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.71321225     </BIAS>
+ <RMSE>  0.301919997     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.485216469     </MEAN_OBS>
+ <STDV_OBS>   1.00038242     </STDV_OBS>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.292560637     </MEAN>
+ <STDV>  -3.20275763E+09 </STDV>
+ <BIAS>   1.75533128     </BIAS>
+ <RMSE>  0.193293035     </RMSE>
+ <CORR>  -2.87016730E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.79495394     </BIAS>
+ <RMSE>  0.188236445     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.617366850     </MEAN_OBS>
+ <STDV_OBS>   1.76312590     </STDV_OBS>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         714 </NUM>
+ <MEAN>  0.445671201     </MEAN>
+ <STDV>  -2.87022541E+09 </STDV>
+ <BIAS>   2.68567467     </BIAS>
+ <RMSE>  0.368334085     </RMSE>
+ <CORR>  -3.20348288E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         714 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.71361232     </BIAS>
+ <RMSE>  0.371140987     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.420641482     </MEAN_OBS>
+ <STDV_OBS>   1.65832508     </STDV_OBS>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.327374756     </MEAN>
+ <STDV>  -3.20126413E+09 </STDV>
+ <BIAS>   1.39082563     </BIAS>
+ <RMSE>  0.644179344     </RMSE>
+ <CORR>  -2.87026125E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.17484760     </BIAS>
+ <RMSE>  0.725770473     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.574166715     </MEAN_OBS>
+ <STDV_OBS>   2.60024810     </STDV_OBS>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.481120735     </MEAN>
+ <STDV>  -3.20348288E+09 </STDV>
+ <BIAS>   1.97243094     </BIAS>
+ <RMSE>  0.692813277     </RMSE>
+ <CORR>  -2.87009024E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.22573185     </BIAS>
+ <RMSE>  0.597560227     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.492156982     </MEAN_OBS>
+ <STDV_OBS>   1.95707345     </STDV_OBS>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>  0.340383172     </MEAN>
+ <STDV>  -3.20231270E+09 </STDV>
+ <BIAS>   1.79152405     </BIAS>
+ <RMSE>  0.661045134     </RMSE>
+ <CORR>  -3.20293376E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.05752230     </BIAS>
+ <RMSE>  0.564204216     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.310555667     </MEAN_OBS>
+ <STDV_OBS>  0.582060635     </STDV_OBS>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.148126215     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   1.41956782     </BIAS>
+ <RMSE>  0.185323924     </RMSE>
+ <CORR>  -2.87026099E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.38570535     </BIAS>
+ <RMSE>  0.230024636     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.269583553     </MEAN_OBS>
+ <STDV_OBS>  0.815703154     </STDV_OBS>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.247009203     </MEAN>
+ <STDV>  -3.20346240E+09 </STDV>
+ <BIAS>   1.26265395     </BIAS>
+ <RMSE>  0.176504105     </RMSE>
+ <CORR>  -2.87009024E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.28138888     </BIAS>
+ <RMSE>  0.166838333     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.272777915     </MEAN_OBS>
+ <STDV_OBS>  0.956021905     </STDV_OBS>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.222562641     </MEAN>
+ <STDV>  -3.20283699E+09 </STDV>
+ <BIAS>   1.32562721     </BIAS>
+ <RMSE>  0.125861809     </RMSE>
+ <CORR>  -3.20293453E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.36278319     </BIAS>
+ <RMSE>   9.96560156E-02 </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.533333600     </MEAN_OBS>
+ <STDV_OBS>   1.24704349     </STDV_OBS>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.315134913     </MEAN>
+ <STDV>  -2.87022541E+09 </STDV>
+ <BIAS>   2.30415511     </BIAS>
+ <RMSE>   8.41977000E-02 </RMSE>
+ <CORR>  -2.87026074E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.37254190     </BIAS>
+ <RMSE>  0.103759862     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.492777765     </MEAN_OBS>
+ <STDV_OBS>   1.01159096     </STDV_OBS>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.250609130     </MEAN>
+ <STDV>  -3.20118502E+09 </STDV>
+ <BIAS>   2.06931591     </BIAS>
+ <RMSE>  0.170174539     </RMSE>
+ <CORR>  -2.87016704E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.05723405     </BIAS>
+ <RMSE>  0.196588278     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.326250076     </MEAN_OBS>
+ <STDV_OBS>  0.969772756     </STDV_OBS>
+ <EXP>
+ <ID>       10356 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.243812010     </MEAN>
+ <STDV>  -3.20340634E+09 </STDV>
+ <BIAS>   1.17562902     </BIAS>
+ <RMSE>  0.238999471     </RMSE>
+ <CORR>  -3.20298854E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10356 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.20219302     </BIAS>
+ <RMSE>  0.285043120     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.324166596     </MEAN_OBS>
+ <STDV_OBS>  0.908105850     </STDV_OBS>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.224494129     </MEAN>
+ <STDV>  -3.20231270E+09 </STDV>
+ <BIAS>   1.25586665     </BIAS>
+ <RMSE>  0.273193330     </RMSE>
+ <CORR>  -2.87026074E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.20772219     </BIAS>
+ <RMSE>  0.252970427     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.326805770     </MEAN_OBS>
+ <STDV_OBS>   1.38964677     </STDV_OBS>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.348697573     </MEAN>
+ <STDV>  -2.87030195E+09 </STDV>
+ <BIAS>   1.00244379     </BIAS>
+ <RMSE>  0.532697976     </RMSE>
+ <CORR>  -2.87016678E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.25126922     </BIAS>
+ <RMSE>  0.484194636     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.470000178     </MEAN_OBS>
+ <STDV_OBS>   2.15659976     </STDV_OBS>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         710 </NUM>
+ <MEAN>  0.421333283     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   1.77099967     </BIAS>
+ <RMSE>  0.417367488     </RMSE>
+ <CORR>  -3.20298854E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         710 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.49836516     </BIAS>
+ <RMSE>  0.143113673     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.475555420     </MEAN_OBS>
+ <STDV_OBS>   1.66657794     </STDV_OBS>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.388816804     </MEAN>
+ <STDV>  -3.20283699E+09 </STDV>
+ <BIAS>   1.56647682     </BIAS>
+ <RMSE>  0.603436232     </RMSE>
+ <CORR>  -2.87026150E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.57043362     </BIAS>
+ <RMSE>  0.595048070     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.660555899     </MEAN_OBS>
+ <STDV_OBS>   1.65461314     </STDV_OBS>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.415865034     </MEAN>
+ <STDV>  -2.87031014E+09 </STDV>
+ <BIAS>   1.79365540     </BIAS>
+ <RMSE>  0.571460307     </RMSE>
+ <CORR>  -2.87016653E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.92089379     </BIAS>
+ <RMSE>  0.504436731     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.487083316     </MEAN_OBS>
+ <STDV_OBS>   1.84434593     </STDV_OBS>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.441372067     </MEAN>
+ <STDV>  -3.20126413E+09 </STDV>
+ <BIAS>   1.93703997     </BIAS>
+ <RMSE>  0.513825893     </RMSE>
+ <CORR>  -3.20293427E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.81276882     </BIAS>
+ <RMSE>  0.501665592     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.290638506     </MEAN_OBS>
+ <STDV_OBS>  0.734712124     </STDV_OBS>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         705 </NUM>
+ <MEAN>  0.206526592     </MEAN>
+ <STDV>  -3.20340634E+09 </STDV>
+ <BIAS>   1.63919222     </BIAS>
+ <RMSE>  0.161369652     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         705 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.18800056     </BIAS>
+ <RMSE>  0.275023401     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.313110203     </MEAN_OBS>
+ <STDV_OBS>   1.18073249     </STDV_OBS>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.324692190     </MEAN>
+ <STDV>  -3.20223360E+09 </STDV>
+ <BIAS>   1.24753702     </BIAS>
+ <RMSE>  0.323309451     </RMSE>
+ <CORR>  -2.87016653E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.32703149     </BIAS>
+ <RMSE>  0.338644564     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.268888980     </MEAN_OBS>
+ <STDV_OBS>   1.10747194     </STDV_OBS>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.218828842     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   1.08927071     </BIAS>
+ <RMSE>   9.18149352E-02 </RMSE>
+ <CORR>  -3.20293402E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.34141815     </BIAS>
+ <RMSE>   6.30652606E-02 </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.319861144     </MEAN_OBS>
+ <STDV_OBS>   1.08379960     </STDV_OBS>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.228259727     </MEAN>
+ <STDV>  -3.20350874E+09 </STDV>
+ <BIAS>   1.33574843     </BIAS>
+ <RMSE>  0.167313069     </RMSE>
+ <CORR>  -2.87034010E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.41352463     </BIAS>
+ <RMSE>  0.168998957     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.559166968     </MEAN_OBS>
+ <STDV_OBS>  0.666036725     </STDV_OBS>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.173501238     </MEAN>
+ <STDV>  -3.20275789E+09 </STDV>
+ <BIAS>   2.29553103     </BIAS>
+ <RMSE>  0.106797792     </RMSE>
+ <CORR>  -2.87016730E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.18169045     </BIAS>
+ <RMSE>  0.158844680     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.365266263     </MEAN_OBS>
+ <STDV_OBS>   1.14982605     </STDV_OBS>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         714 </NUM>
+ <MEAN>  0.280518383     </MEAN>
+ <STDV>  -2.87022541E+09 </STDV>
+ <BIAS>   1.45583451     </BIAS>
+ <RMSE>  0.147642061     </RMSE>
+ <CORR>  -3.20293376E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         714 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.55622876     </BIAS>
+ <RMSE>  0.171076074     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.368611485     </MEAN_OBS>
+ <STDV_OBS>   1.28371322     </STDV_OBS>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.331354260     </MEAN>
+ <STDV>  -3.20126413E+09 </STDV>
+ <BIAS>   1.52694356     </BIAS>
+ <RMSE>  0.228655949     </RMSE>
+ <CORR>  -2.87026125E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.57091701     </BIAS>
+ <RMSE>  0.235594347     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.354166687     </MEAN_OBS>
+ <STDV_OBS>   1.13566256     </STDV_OBS>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.250859976     </MEAN>
+ <STDV>  -3.20348288E+09 </STDV>
+ <BIAS>   1.87559295     </BIAS>
+ <RMSE>   6.77427500E-02 </RMSE>
+ <CORR>  -2.87009024E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.60154080     </BIAS>
+ <RMSE>  0.182124123     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.452998966     </MEAN_OBS>
+ <STDV_OBS>   1.15648210     </STDV_OBS>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>  0.324851602     </MEAN>
+ <STDV>  -3.20231270E+09 </STDV>
+ <BIAS>   1.46236157     </BIAS>
+ <RMSE>  0.450059533     </RMSE>
+ <CORR>  -3.20293376E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         717 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.54818976     </BIAS>
+ <RMSE>  0.392921060     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.416388750     </MEAN_OBS>
+ <STDV_OBS>   1.35180938     </STDV_OBS>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.342003196     </MEAN>
+ <STDV>  -2.87021722E+09 </STDV>
+ <BIAS>   1.43753695     </BIAS>
+ <RMSE>  0.474952012     </RMSE>
+ <CORR>  -2.87026099E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.44337583     </BIAS>
+ <RMSE>  0.443290502     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.148618892     </MEAN_OBS>
+ <STDV_OBS>  0.809670568     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1557 </NUM>
+ <MEAN>  0.128122896     </MEAN>
+ <STDV>  -2.87026099E+09 </STDV>
+ <BIAS>  0.863508463     </BIAS>
+ <RMSE>  0.283190489     </RMSE>
+ <CORR>  -3.20118554E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1557 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>  0.989308953     </BIAS>
+ <RMSE>  0.226795733     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.374422997     </MEAN_OBS>
+ <STDV_OBS>   2.13944721     </STDV_OBS>
+ <EXP>
+ <ID>       26551 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>  0.545456827     </MEAN>
+ <STDV>  -3.20080410E+09 </STDV>
+ <BIAS>   2.20272350     </BIAS>
+ <RMSE>  0.253021479     </RMSE>
+ <CORR>  -3.20126413E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26551 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>        1560 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   2.39614797     </BIAS>
+ <RMSE>  0.178082287     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.477215350     </MEAN_OBS>
+ <STDV_OBS>   1.84231484     </STDV_OBS>
+ <EXP>
+ <ID>        6069 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>  0.382649362     </MEAN>
+ <STDV>  -2.87026074E+09 </STDV>
+ <BIAS>   1.76783276     </BIAS>
+ <RMSE>  0.433695227     </RMSE>
+ <CORR>  -3.20223411E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6069 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         474 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   1.88661921     </BIAS>
+ <RMSE>  0.360676199     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.895959437     </MEAN_OBS>
+ <STDV_OBS>   2.65487742     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>rednmc06</NAME>
+ <NUM>         693 </NUM>
+ <MEAN>  0.521998703     </MEAN>
+ <STDV>  -2.87026150E+09 </STDV>
+ <BIAS>   3.63490081     </BIAS>
+ <RMSE>  0.416094035     </RMSE>
+ <CORR>  -3.20079642E+09 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>rednmc06_t2h2</NAME>
+ <NUM>         693 </NUM>
+ <MEAN>   3.16707466E-41 </MEAN>
+ <STDV>   3.16707466E-41 </STDV>
+ <BIAS>   3.63294601     </BIAS>
+ <RMSE>  0.447942525     </RMSE>
+ <CORR>   3.16707466E-41 </CORR>
+ </EXP>
+ </STATION>
+</STAT>
